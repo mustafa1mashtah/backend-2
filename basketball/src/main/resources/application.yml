@@ -1,0 +1,12 @@
+teams:
+  basketballTeams:
+    - name: Gettin' Wiggy With It.
+      playerNames: Tomson, Gary, Peter
+    - name: Better Call Gasol.
+      playerNames: Sam, Gasol, Lila
+    - name: Adam's Family.
+      playerNames: Morticia, Wednesday, Gomez
+    - name: Locker Room Talk.
+      playerNames: Sara, Leticia, Josh
+    - name: Skyhookers.
+      playerNames: Samuel, Seth, Antonia

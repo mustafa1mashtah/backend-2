@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basketball/basketball.iml" filepath="$PROJECT_DIR$/basketball/basketball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cinemamessages/cinema.iml" filepath="$PROJECT_DIR$/cinemamessages/cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/pirates/dutchman/dutchman.iml" filepath="$PROJECT_DIR$/web/pirates/dutchman/dutchman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/themorseencoder/encoder/encoder.iml" filepath="$PROJECT_DIR$/web/themorseencoder/encoder/encoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fundamentals.iml" filepath="$PROJECT_DIR$/.idea/fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/pirates/jacksparrow/jacksparrow.iml" filepath="$PROJECT_DIR$/web/pirates/jacksparrow/jacksparrow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/marathon-server/marathon-server.iml" filepath="$PROJECT_DIR$/web/marathon-server/marathon-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/polo-marco/marco/marco.iml" filepath="$PROJECT_DIR$/web/polo-marco/marco/marco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/themorseencoder/morse/morse.iml" filepath="$PROJECT_DIR$/web/themorseencoder/morse/morse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/polo-marco/polo/polo.iml" filepath="$PROJECT_DIR$/web/polo-marco/polo/polo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/properties/properties.iml" filepath="$PROJECT_DIR$/properties/properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectionweek3/reflection.iml" filepath="$PROJECT_DIR$/reflectionweek3/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/rockpaper.iml" filepath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/rockpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/pirates/tiadalma/tiadalma.iml" filepath="$PROJECT_DIR$/web/pirates/tiadalma/tiadalma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaml/yaml.iml" filepath="$PROJECT_DIR$/yaml/yaml.iml" />
+    </modules>
+  </component>
+</project>

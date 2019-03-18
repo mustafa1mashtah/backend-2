@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basketball" />
+        <module name="cinema" />
+        <module name="dutchman" />
+        <module name="encoder" />
+        <module name="jacksparrow" />
+        <module name="marathon-server" />
+        <module name="marco" />
+        <module name="morse" />
+        <module name="polo" />
+        <module name="properties" />
+        <module name="reflection" />
+        <module name="rockpaper" />
+        <module name="tiadalma" />
+        <module name="yaml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basketball" target="11" />
+      <module name="cinema" target="11" />
+      <module name="dutchman" target="11" />
+      <module name="encoder" target="11" />
+      <module name="fundementals2" target="11" />
+      <module name="jacksparrow" target="11" />
+      <module name="marathon-server" target="11" />
+      <module name="marco" target="11" />
+      <module name="morse" target="11" />
+      <module name="polo" target="11" />
+      <module name="properties" target="11" />
+      <module name="reflection" target="11" />
+      <module name="rockpaper" target="11" />
+      <module name="tiadalma" target="11" />
+      <module name="yaml" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="basketball" options="-parameters" />
+      <module name="cinema" options="-parameters" />
+      <module name="dutchman" options="-parameters" />
+      <module name="encoder" options="-parameters" />
+      <module name="fundementals2" options="-parameters" />
+      <module name="jacksparrow" options="-parameters" />
+      <module name="marathon-server" options="-parameters" />
+      <module name="marco" options="-parameters" />
+      <module name="morse" options="-parameters" />
+      <module name="polo" options="-parameters" />
+      <module name="properties" options="-parameters" />
+      <module name="reflection" options="-parameters" />
+      <module name="rockpaper" options="-parameters" />
+      <module name="tiadalma" options="-parameters" />
+      <module name="yaml" options="-parameters" />
+    </option>
+  </component>
+</project>

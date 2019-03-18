@@ -1,0 +1,22 @@
+configration:
+  sentence: fantastic
+find:
+  number: 369
+days:
+  day-of-week: Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday
+store:
+  books:
+   HarryPotter: 3
+   TheFoundation: 2
+   LordOfTheRings: 4
+sauna:
+  availableSeats: 5
+  temperature: 14
+dance:
+  ballerinas:
+    - name: med
+      performanceQuality: 4
+    - name: nana
+      performanceQuality: 2
+    - name: meme
+      performanceQuality: 5

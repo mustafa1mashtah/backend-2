@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/basketball" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cinemamessages" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reflectionweek3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/marathon-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/pirates/dutchman" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/pirates/jacksparrow" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/pirates/tiadalma" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/polo-marco" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/polo-marco/marco" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/polo-marco/polo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/themorseencoder/encoder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/themorseencoder/morse" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yaml" charset="UTF-8" />
+  </component>
+</project>

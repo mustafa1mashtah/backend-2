@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe5ca296-54a8-4695-8af1-9dfa42012894" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Judge.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Judge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Lizard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Paper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Rock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Scissors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Spock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/controller/JudgeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/controller/JudgeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/model/ScissorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/model/ScissorsTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/properties/target/" />
+    <ignored path="$PROJECT_DIR$/yaml/target/" />
+    <ignored path="$PROJECT_DIR$/basketball/target/" />
+    <ignored path="$PROJECT_DIR$/cinemamessages/target/" />
+    <ignored path="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/target/" />
+    <ignored path="$PROJECT_DIR$/reflectionweek3/target/" />
+    <ignored path="$PROJECT_DIR$/web/marathon-server/target/" />
+    <ignored path="$PROJECT_DIR$/web/polo-marco/target/" />
+    <ignored path="$PROJECT_DIR$/web/polo-marco/polo/target/" />
+    <ignored path="$PROJECT_DIR$/web/polo-marco/marco/target/" />
+    <ignored path="$PROJECT_DIR$/web/pirates/dutchman/target/" />
+    <ignored path="$PROJECT_DIR$/web/pirates/tiadalma/target/" />
+    <ignored path="$PROJECT_DIR$/web/pirates/jacksparrow/target/" />
+    <ignored path="$PROJECT_DIR$/web/themorseencoder/encoder/target/" />
+    <ignored path="$PROJECT_DIR$/web/themorseencoder/morse/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderEndpoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/main/java/at/nacs/morse/MorseEndpoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/main/java/at/nacs/morse/MorseServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/polo-marco/polo/src/test/java/at/nacs/polo/PoloEndpointTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballTournament.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/Court.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/Screen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/test/java/at/nacs/morse/MorseEndpointTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/test/java/at/nacs/morse/MorseServerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sharife/BackEndModul" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/Runner.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/Runners.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/Winner.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/RunnersEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/WinnerEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/presistence/RunnerRepository.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/controller/WinnerEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/controller/RunnersEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/test/resourses/application.yml" />
+        <option value="$PROJECT_DIR$/properties/src/main/java/at/nacs/fundementals2/Ballerina.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/test/java/at/nacs/marathonserver/controller/Runners.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/presistence/Runner.java" />
+        <option value="$PROJECT_DIR$/web/marathon-server/src/test/java/at/nacs/marathonserver/controller/RunnersEndpointTest.java" />
+        <option value="$PROJECT_DIR$/web/polo-marco/polo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/web/polo-marco/polo/src/test/java/at/nacs/polo/PoloEndpointTest.java" />
+        <option value="$PROJECT_DIR$/web/polo-marco/polo/src/main/java/at/nacs/polo/PoloClient.java" />
+        <option value="$PROJECT_DIR$/web/polo-marco/marco/src/main/java/at/nacs/marco/RestTemplateConfiguration.java" />
+        <option value="$PROJECT_DIR$/web/polo-marco/marco/src/main/java/at/nacs/marco/MarcoEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/polo-marco/marco/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/web/polo-marco/polo/src/main/java/at/nacs/polo/PoloEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/polo-marco/polo/src/main/java/at/nacs/polo/PoloServer.java" />
+        <option value="$PROJECT_DIR$/web/pirates/dutchman/src/main/java/at/nacs/dutchman/DutchmanEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/pirates/dutchman/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/web/pirates/dutchman/src/main/java/at/nacs/dutchman/domain/Chest.java" />
+        <option value="$PROJECT_DIR$/web/pirates/dutchman/src/test/java/at/nacs/dutchman/DutchmanEndpointTest.java" />
+        <option value="$PROJECT_DIR$/web/pirates/tiadalma/src/main/java/at/nacs/tiadalma/TiadalmaEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/pirates/dutchman/src/main/java/at/nacs/dutchman/DeadManChestEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/pirates/tiadalma/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/web/pirates/tiadalma/src/main/java/at/nacs/tiadalma/DutchmanEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/pirates/tiadalma/src/test/java/at/nacs/tiadalma/DutchmanEndpointTest.java" />
+        <option value="$PROJECT_DIR$/web/pirates/dutchman/src/main/java/at/nacs/dutchman/domain/DeadMansChest.java" />
+        <option value="$PROJECT_DIR$/web/pirates/jacksparrow/src/main/java/at/nacs/jacksparrow/DeadMansChest.java" />
+        <option value="$PROJECT_DIR$/web/pirates/jacksparrow/src/main/java/at/nacs/jacksparrow/domain/DeadMansChest.java" />
+        <option value="$PROJECT_DIR$/web/pirates/jacksparrow/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/web/pirates/jacksparrow/src/main/java/at/nacs/jacksparrow/JacksparrowEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/pirates/jacksparrow/src/main/java/at/nacs/jacksparrow/RestTemplateConfugration.java" />
+        <option value="$PROJECT_DIR$/web/polo-marco/marco/src/main/java/at/nacs/marco/MarcoClient.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/RestTemplateConfugration.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/RestTemplateConfiguration.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/morse/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/morse/src/test/java/at/nacs/morse/MorseServerTest.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/morse/src/main/java/at/nacs/morse/Translator.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/morse/src/main/java/at/nacs/morse/MorseEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderClient.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/encoder/src/test/java/at/nacs/encoder/EncoderEndpointTest.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/morse/src/main/java/at/nacs/morse/MorseServer.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/morse/src/test/java/at/nacs/morse/MorseEndpointTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1833" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="fundamentals" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="fundamentals" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552649592168" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents/backEndWeek2/i4-backend/i4-backend" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="at.nacs.morse" />
+      <recent name="at.nacs.encoder" />
+      <recent name="at.nacs.tiadalma" />
+      <recent name="at.nacs.dutchman" />
+      <recent name="at.nacs.polo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="at.nacs.encoder" />
+      <recent name="at.nacs.cinema" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/marathon-server/src/test/resourses" />
+      <recent name="$PROJECT_DIR$/reflectionweek3/src/test/resources" />
+      <recent name="$PROJECT_DIR$/yaml/src/test/resources" />
+      <recent name="$PROJECT_DIR$/yaml/src/test/java/at/nacs/yaml" />
+      <recent name="$PROJECT_DIR$/yaml/src/main/java/at/nacs/yaml" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MorseEndpointTest">
+    <configuration name="DeadManChestEndpointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dutchman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.dutchman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.dutchman" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.dutchman.DeadManChestEndpointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DutchmanEndpointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tiadalma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.tiadalma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.tiadalma" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.tiadalma.DutchmanEndpointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorseEndpointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="morse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.morse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.morse" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.morse.MorseEndpointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorseServerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="morse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.morse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.morse" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.morse.MorseServerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoloEndpointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="polo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.polo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.polo" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.polo.PoloEndpointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CinemaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cinema" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.cinema.CinemaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DutchmanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dutchman" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.dutchman.DutchmanApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncoderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="encoder" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.encoder.EncoderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fundementals2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="properties" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.fundementals2.Fundementals2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JacksparrowApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jacksparrow" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.jacksparrow.JacksparrowApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarathonServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="marathon-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.marathonserver.MarathonServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarcoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="marco" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.marco.MarcoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="morse" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.morse.MorseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="polo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.polo.PoloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reflection" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.reflection.ReflectionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RockpaperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rockpaper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.rockpaper.RockpaperApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiadalmaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tiadalma" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.tiadalma.TiadalmaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YamlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yaml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.yaml.YamlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DeadManChestEndpointTest" />
+      <item itemvalue="JUnit.PoloEndpointTest" />
+      <item itemvalue="JUnit.DutchmanEndpointTest" />
+      <item itemvalue="JUnit.MorseServerTest" />
+      <item itemvalue="JUnit.MorseEndpointTest" />
+      <item itemvalue="Spring Boot.CinemaApplication" />
+      <item itemvalue="Spring Boot.MarathonServerApplication" />
+      <item itemvalue="Spring Boot.ReflectionApplication" />
+      <item itemvalue="Spring Boot.RockpaperApplication" />
+      <item itemvalue="Spring Boot.YamlApplication" />
+      <item itemvalue="Spring Boot.PoloApplication" />
+      <item itemvalue="Spring Boot.Fundementals2Application" />
+      <item itemvalue="Spring Boot.MarcoApplication" />
+      <item itemvalue="Spring Boot.DutchmanApplication" />
+      <item itemvalue="Spring Boot.TiadalmaApplication" />
+      <item itemvalue="Spring Boot.JacksparrowApplication" />
+      <item itemvalue="Spring Boot.EncoderApplication" />
+      <item itemvalue="Spring Boot.MorseApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MorseEndpointTest" />
+        <item itemvalue="JUnit.MorseServerTest" />
+        <item itemvalue="JUnit.DutchmanEndpointTest" />
+        <item itemvalue="JUnit.DeadManChestEndpointTest" />
+        <item itemvalue="JUnit.PoloEndpointTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe5ca296-54a8-4695-8af1-9dfa42012894" name="Default Changelist" comment="" />
+      <created>1551860524621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551860524621</updated>
+      <workItem from="1551860533153" duration="194000" />
+      <workItem from="1551860740870" duration="10728000" />
+      <workItem from="1551884566234" duration="21834000" />
+      <workItem from="1552301353962" duration="234000" />
+      <workItem from="1552301624542" duration="34205000" />
+      <workItem from="1552573048831" duration="15499000" />
+      <workItem from="1552912113031" duration="778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DutchmanEndpointTest - 2019.03.13 at 16h 26m 15s.xml">
+      <configuration name="DutchmanEndpointTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MorseServerTest - 2019.03.15 at 10h 56m 58s.xml">
+      <configuration name="MorseServerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MorseServerTest - 2019.03.15 at 11h 00m 40s.xml">
+      <configuration name="MorseServerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MorseServerTest - 2019.03.15 at 11h 01m 07s.xml">
+      <configuration name="MorseServerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MorseServerTest - 2019.03.15 at 11h 09m 33s.xml">
+      <configuration name="MorseServerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MorseServerTest - 2019.03.15 at 11h 10m 28s.xml">
+      <configuration name="MorseServerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MorseServerTest - 2019.03.15 at 11h 11m 32s.xml">
+      <configuration name="MorseServerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MorseServerTest - 2019.03.15 at 11h 12m 04s.xml">
+      <configuration name="MorseServerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MorseEndpointTest - 2019.03.15 at 11h 53m 58s.xml">
+      <configuration name="MorseEndpointTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MorseEndpointTest - 2019.03.15 at 11h 56m 05s.xml">
+      <configuration name="MorseEndpointTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83472000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2661513" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32972974" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/presistence/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/marathon-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/marathon-server/src/test/java/at/nacs/marathonserver/controller/Runners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/polo/src/main/java/at/nacs/polo/PoloRepository.java" />
+    <entry file="file://$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/presistence/RunnerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/marathon-server/src/main/java/at/nacs/marathonserver/controller/RunnersEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/marathon-server/src/test/resourses/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/marathon-server/src/test/java/at/nacs/marathonserver/controller/RunnersEndpointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/dutchman/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/dutchman/src/main/java/at/nacs/dutchman/DutchmanApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/tiadalma/src/test/java/at/nacs/tiadalma/DutchmanEndpointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/dutchman/src/main/java/at/nacs/dutchman/domain/Chest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/dutchman/src/main/java/at/nacs/dutchman/domain/DeadMansChest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/jacksparrow/src/main/java/at/nacs/jacksparrow/domain/DeadMansChest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/jacksparrow/src/main/java/at/nacs/jacksparrow/JacksparrowApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/tiadalma/src/main/java/at/nacs/tiadalma/TiadalmaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/tiadalma/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/jacksparrow/src/main/java/at/nacs/jacksparrow/RestTemplateConfugration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/dutchman/src/test/java/at/nacs/dutchman/DeadManChestEndpointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/jacksparrow/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/polo/src/main/java/at/nacs/polo/PoloApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/marco/src/main/java/at/nacs/marco/MarcoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/polo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/dutchman/src/main/java/at/nacs/dutchman/DeadManChestEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/jacksparrow/src/main/java/at/nacs/jacksparrow/JacksparrowEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pirates/tiadalma/src/main/java/at/nacs/tiadalma/DutchmanEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/marco/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/marco/src/main/java/at/nacs/marco/RestTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/polo/src/main/java/at/nacs/polo/PoloEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/polo/src/main/java/at/nacs/polo/PoloServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/main/java/at/nacs/morse/Translator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/RestTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/marco/src/main/java/at/nacs/marco/MarcoEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/marco/src/main/java/at/nacs/marco/MarcoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/test/java/at/nacs/encoder/EncoderEndpointTest.java" />
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/main/java/at/nacs/morse/MorseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/main/java/at/nacs/morse/MorseEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/main/java/at/nacs/morse/MorseServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/test/java/at/nacs/morse/MorseServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/test/java/at/nacs/morse/MorseEndpointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/polo-marco/polo/src/test/java/at/nacs/polo/PoloEndpointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballTournament.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/Court.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>basketball</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

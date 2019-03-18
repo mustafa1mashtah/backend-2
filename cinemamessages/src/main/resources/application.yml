@@ -1,0 +1,14 @@
+names:
+ customers: Ms. Sofia, Mrs. Isabela, Ms. Camila, Mrs. Valentina, Ms. Valeria, Mrs. Mariana, Mr. Santiago, Mr. Sebastian, Mr. Matias, Mr. Mateo, Mr. Alejandro, Mr. Diego, Daniela Threepwood, Ms. Gabriela Threepwood, Mrs. Martina Threepwood, Mr. Samuel Threepwood, Lucia, Sara, Emma, Agustin, Juan Pablo, Rodrigo
+cinema:
+ templates:
+  - type: Threepwood
+    text: My dearest {name}, your lovely family gives you a 20% discount on tickets this Friday!
+  - type: Mr.
+    text: Good day {name}, don’t forget our 20% discount on tickets this Friday!
+  - type: Ms.
+    text: Dear {name}, you and your friends will have so much fun at the cinema this Friday with a 20% discount!
+  - type: Mrs.
+    text: Dear {name}, you and your friends will have so much fun at the cinema this Friday with a 20% discount!
+  - type:
+    text: Hello {name}! How about a Friday night movie? This week with a 20% discount!
