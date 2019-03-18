@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basketball/basketball.iml" filepath="$PROJECT_DIR$/basketball/basketball.iml" />
       <module fileurl="file://$PROJECT_DIR$/cinemamessages/cinema.iml" filepath="$PROJECT_DIR$/cinemamessages/cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/drhouse-admission.iml" filepath="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/drhouse-admission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/drhouse-diagnoses.iml" filepath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/drhouse-diagnoses.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/pirates/dutchman/dutchman.iml" filepath="$PROJECT_DIR$/web/pirates/dutchman/dutchman.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/themorseencoder/encoder/encoder.iml" filepath="$PROJECT_DIR$/web/themorseencoder/encoder/encoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/fundamentals.iml" filepath="$PROJECT_DIR$/.idea/fundamentals.iml" />

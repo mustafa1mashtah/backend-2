@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="basketball" />
         <module name="cinema" />
+        <module name="drhouse-admission" />
+        <module name="drhouse-diagnoses" />
         <module name="dutchman" />
         <module name="encoder" />
         <module name="jacksparrow" />
@@ -23,8 +25,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="admission" target="11" />
       <module name="basketball" target="11" />
       <module name="cinema" target="11" />
+      <module name="drhouse-admission" target="11" />
+      <module name="drhouse-diagnoses" target="11" />
       <module name="dutchman" target="11" />
       <module name="encoder" target="11" />
       <module name="fundementals2" target="11" />
@@ -42,8 +47,11 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admission" options="-parameters" />
       <module name="basketball" options="-parameters" />
       <module name="cinema" options="-parameters" />
+      <module name="drhouse-admission" options="-parameters" />
+      <module name="drhouse-diagnoses" options="-parameters" />
       <module name="dutchman" options="-parameters" />
       <module name="encoder" options="-parameters" />
       <module name="fundementals2" options="-parameters" />
