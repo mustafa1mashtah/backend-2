@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basketball/basketball.iml" filepath="$PROJECT_DIR$/basketball/basketball.iml" />
       <module fileurl="file://$PROJECT_DIR$/cinemamessages/cinema.iml" filepath="$PROJECT_DIR$/cinemamessages/cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/three-cup-shuffle/cup/cup.iml" filepath="$PROJECT_DIR$/web/three-cup-shuffle/cup/cup.iml" />
       <module fileurl="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/drhouse-admission.iml" filepath="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/drhouse-admission.iml" />
       <module fileurl="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/drhouse-diagnoses.iml" filepath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/drhouse-diagnoses.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/pirates/dutchman/dutchman.iml" filepath="$PROJECT_DIR$/web/pirates/dutchman/dutchman.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/reflectionweek3/reflection.iml" filepath="$PROJECT_DIR$/reflectionweek3/reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/rockpaper.iml" filepath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/rockpaper.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/pirates/tiadalma/tiadalma.iml" filepath="$PROJECT_DIR$/web/pirates/tiadalma/tiadalma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/three-cup-shuffle/trickster/trickster.iml" filepath="$PROJECT_DIR$/web/three-cup-shuffle/trickster/trickster.iml" />
       <module fileurl="file://$PROJECT_DIR$/yaml/yaml.iml" filepath="$PROJECT_DIR$/yaml/yaml.iml" />
     </modules>
   </component>

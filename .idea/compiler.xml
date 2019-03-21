@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="basketball" />
         <module name="cinema" />
+        <module name="cup" />
         <module name="drhouse-admission" />
         <module name="drhouse-diagnoses" />
         <module name="dutchman" />
@@ -21,6 +22,7 @@
         <module name="reflection" />
         <module name="rockpaper" />
         <module name="tiadalma" />
+        <module name="trickster" />
         <module name="yaml" />
       </profile>
     </annotationProcessing>
@@ -28,6 +30,7 @@
       <module name="admission" target="11" />
       <module name="basketball" target="11" />
       <module name="cinema" target="11" />
+      <module name="cup" target="11" />
       <module name="drhouse-admission" target="11" />
       <module name="drhouse-diagnoses" target="11" />
       <module name="dutchman" target="11" />
@@ -42,6 +45,7 @@
       <module name="reflection" target="11" />
       <module name="rockpaper" target="11" />
       <module name="tiadalma" target="11" />
+      <module name="trickster" target="11" />
       <module name="yaml" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -50,6 +54,7 @@
       <module name="admission" options="-parameters" />
       <module name="basketball" options="-parameters" />
       <module name="cinema" options="-parameters" />
+      <module name="cup" options="-parameters" />
       <module name="drhouse-admission" options="-parameters" />
       <module name="drhouse-diagnoses" options="-parameters" />
       <module name="dutchman" options="-parameters" />
@@ -64,6 +69,7 @@
       <module name="reflection" options="-parameters" />
       <module name="rockpaper" options="-parameters" />
       <module name="tiadalma" options="-parameters" />
+      <module name="trickster" options="-parameters" />
       <module name="yaml" options="-parameters" />
     </option>
   </component>
