@@ -1,0 +1,12 @@
+dataset:
+  todos:
+    - title: breakfast
+      done: false
+    - title: lunch
+      done: false
+    - title: study
+      done: false
+  todo:
+    title: sport
+    done: false
+

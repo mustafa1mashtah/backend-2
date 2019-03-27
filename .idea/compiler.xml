@@ -13,6 +13,8 @@
         <module name="drhouse-diagnoses" />
         <module name="dutchman" />
         <module name="encoder" />
+        <module name="fengshui-api" />
+        <module name="fengshui-profiler" />
         <module name="jacksparrow" />
         <module name="marathon-server" />
         <module name="marco" />
@@ -22,7 +24,9 @@
         <module name="reflection" />
         <module name="rockpaper" />
         <module name="tiadalma" />
+        <module name="todos" />
         <module name="trickster" />
+        <module name="twitter-board" />
         <module name="yaml" />
       </profile>
     </annotationProcessing>
@@ -35,6 +39,8 @@
       <module name="drhouse-diagnoses" target="11" />
       <module name="dutchman" target="11" />
       <module name="encoder" target="11" />
+      <module name="fengshui-api" target="11" />
+      <module name="fengshui-profiler" target="11" />
       <module name="fundementals2" target="11" />
       <module name="jacksparrow" target="11" />
       <module name="marathon-server" target="11" />
@@ -45,7 +51,9 @@
       <module name="reflection" target="11" />
       <module name="rockpaper" target="11" />
       <module name="tiadalma" target="11" />
+      <module name="todos" target="11" />
       <module name="trickster" target="11" />
+      <module name="twitter-board" target="11" />
       <module name="yaml" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -59,6 +67,8 @@
       <module name="drhouse-diagnoses" options="-parameters" />
       <module name="dutchman" options="-parameters" />
       <module name="encoder" options="-parameters" />
+      <module name="fengshui-api" options="-parameters" />
+      <module name="fengshui-profiler" options="-parameters" />
       <module name="fundementals2" options="-parameters" />
       <module name="jacksparrow" options="-parameters" />
       <module name="marathon-server" options="-parameters" />
@@ -69,7 +79,9 @@
       <module name="reflection" options="-parameters" />
       <module name="rockpaper" options="-parameters" />
       <module name="tiadalma" options="-parameters" />
+      <module name="todos" options="-parameters" />
       <module name="trickster" options="-parameters" />
+      <module name="twitter-board" options="-parameters" />
       <module name="yaml" options="-parameters" />
     </option>
   </component>

@@ -26,6 +26,10 @@
         <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/pom.xml" />
         <option value="$PROJECT_DIR$/web/three-cup-shuffle/cup/pom.xml" />
         <option value="$PROJECT_DIR$/web/three-cup-shuffle/trickster/pom.xml" />
+        <option value="$PROJECT_DIR$/web/feng-shui-compatibility/fengshui-api/pom.xml" />
+        <option value="$PROJECT_DIR$/web/feng-shui-compatibility/fengshui-profiler/pom.xml" />
+        <option value="$PROJECT_DIR$/Data/my-personal-todo-list/todos/pom.xml" />
+        <option value="$PROJECT_DIR$/Data/twitter-board/pom.xml" />
       </list>
     </option>
   </component>

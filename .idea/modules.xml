@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/drhouse-diagnoses.iml" filepath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/drhouse-diagnoses.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/pirates/dutchman/dutchman.iml" filepath="$PROJECT_DIR$/web/pirates/dutchman/dutchman.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/themorseencoder/encoder/encoder.iml" filepath="$PROJECT_DIR$/web/themorseencoder/encoder/encoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/feng-shui-compatibility/fengshui-api/fengshui-api.iml" filepath="$PROJECT_DIR$/web/feng-shui-compatibility/fengshui-api/fengshui-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/feng-shui-compatibility/fengshui-profiler/fengshui-profiler.iml" filepath="$PROJECT_DIR$/web/feng-shui-compatibility/fengshui-profiler/fengshui-profiler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/fundamentals.iml" filepath="$PROJECT_DIR$/.idea/fundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/pirates/jacksparrow/jacksparrow.iml" filepath="$PROJECT_DIR$/web/pirates/jacksparrow/jacksparrow.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/marathon-server/marathon-server.iml" filepath="$PROJECT_DIR$/web/marathon-server/marathon-server.iml" />
@@ -19,7 +21,9 @@
       <module fileurl="file://$PROJECT_DIR$/reflectionweek3/reflection.iml" filepath="$PROJECT_DIR$/reflectionweek3/reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/rockpaper.iml" filepath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/rockpaper.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/pirates/tiadalma/tiadalma.iml" filepath="$PROJECT_DIR$/web/pirates/tiadalma/tiadalma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/todos.iml" filepath="$PROJECT_DIR$/Data/my-personal-todo-list/todos/todos.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/three-cup-shuffle/trickster/trickster.iml" filepath="$PROJECT_DIR$/web/three-cup-shuffle/trickster/trickster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data/twitter-board/twitter-board.iml" filepath="$PROJECT_DIR$/Data/twitter-board/twitter-board.iml" />
       <module fileurl="file://$PROJECT_DIR$/yaml/yaml.iml" filepath="$PROJECT_DIR$/yaml/yaml.iml" />
     </modules>
   </component>
