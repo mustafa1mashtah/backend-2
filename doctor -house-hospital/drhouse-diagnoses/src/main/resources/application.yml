@@ -4,3 +4,8 @@ info:
   diagnosises:
     runningnose: cold
     confusion: programming
+beds:
+  bedsUrl: http://localhost:9003/patients
+pharmacys:
+  pharmacyUrl: http://localhost:9004/patients
+

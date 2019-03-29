@@ -1,0 +1,12 @@
+info1:
+  patient:
+    id: 1
+    name: mustafa
+    symptoms: confusion
+    diagnosis: programming
+info:
+  medicine:
+    cold: drinkwater
+    programming: killyourself
+
+

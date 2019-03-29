@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.web.client.TestRestTemplate;
 
+
 import static org.springframework.boot.test.context.SpringBootTest.WebEnvironment.RANDOM_PORT;
 
 
@@ -14,15 +15,20 @@ import static org.springframework.boot.test.context.SpringBootTest.WebEnvironmen
 class DrhouseadmissionEndpointTest {
 
     @Autowired
-    TestRestTemplate restTemplate;
+    private TestRestTemplate restTemplate;
+
+    private Patient patient = new Patient();
+
 
     String url = "/patients";
 
     @Test
     void addInfo() {
-        Patient patient = new Patient();
-        Patient patient1 = restTemplate.postForObject(url, patient, Patient.class);
 
-        Assertions.assertThat(patient1.getId()).isNotEmpty();
+        System.out.println(patient);
+        Patient patient1 = restTemplate.postForObject(url, patient, Patient.class);
+        System.out.println(patient1);
+
+        Assertions.assertThat(patient1.getId()).isNotBlank();
     }
 }

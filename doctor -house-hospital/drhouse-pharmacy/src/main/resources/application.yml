@@ -1,0 +1,10 @@
+info:
+  medicine:
+    cold: drinkwater
+    programming: killyourself
+server:
+  port: 9004
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/patients

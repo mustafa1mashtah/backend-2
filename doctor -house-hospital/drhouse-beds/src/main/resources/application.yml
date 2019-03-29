@@ -1,0 +1,11 @@
+server:
+  port: 9003
+info:
+  treatments:
+    none: staytendayinbed
+ccountancy:
+    url: http://localhost:9005/patients
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/patients

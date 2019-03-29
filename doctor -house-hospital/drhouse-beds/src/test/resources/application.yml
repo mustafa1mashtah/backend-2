@@ -1,0 +1,10 @@
+info1:
+  patient:
+    id: 1
+    name: mustafa
+    symptoms: blala
+    diagnosis: none
+info:
+  treatments:
+    none: staytendayinbed
+

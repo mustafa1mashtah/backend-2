@@ -1,17 +1,17 @@
-package at.nacs.drhousediagnoses.domain;
+package at.nacs.drhousebeds;
 
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 
 import java.util.Map;
 
 @Repository
 @ConfigurationProperties("info")
-public class Diagnosises {
+public class BedsConfiguration {
+
     @Setter
     @Getter
-    private Map<String, String> diagnosises;
+    private Map<String, String> treatments;
 }

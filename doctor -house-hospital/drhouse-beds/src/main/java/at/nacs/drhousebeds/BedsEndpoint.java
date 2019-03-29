@@ -1,6 +1,6 @@
-package at.nacs.drhousediagnoses.controller;
+package at.nacs.drhousebeds;
 
-import at.nacs.drhousediagnoses.domain.Patient;
+import at.nacs.drhousebeds.domain.Patient;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -10,11 +10,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/patients")
 @RequiredArgsConstructor
-public class DrhouseDiagnosesEndpoint {
-    private final DiagnosesManger diagnosesManger;
+public class BedsEndpoint {
+    private final BedsManger bedsManger;
 
     @PostMapping
-    Patient add(@RequestBody Patient patient) {
-        return diagnosesManger.postOne(patient);
+    Patient post(@RequestBody Patient patient) {
+        return bedsManger.postOne(patient);
     }
 }
