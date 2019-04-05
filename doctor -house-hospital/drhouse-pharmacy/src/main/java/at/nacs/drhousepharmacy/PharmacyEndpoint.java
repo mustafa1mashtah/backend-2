@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/patients")
 @RequiredArgsConstructor
 public class PharmacyEndpoint {
-    private final ApothecaryManeger maneger;
+    private final ApothecaryManeger manger;
 
     @PostMapping
     Patient post(@RequestBody Patient patient) {
-        return maneger.postOne(patient);
+        return manger.postOne(patient);
     }
 }

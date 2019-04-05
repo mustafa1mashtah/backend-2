@@ -8,26 +8,29 @@
         <outputRelativeToContentRoot value="true" />
         <module name="tiadalma" />
         <module name="morse" />
+        <module name="drhouse-accountancy" />
         <module name="drhouse-pharmacy" />
-        <module name="fengshui-profiler" />
-        <module name="yaml" />
-        <module name="todos" />
-        <module name="marco" />
-        <module name="dutchman" />
-        <module name="polo" />
-        <module name="twitter-board" />
-        <module name="marathon-server" />
+        <module name="jacksparrow" />
         <module name="encoder" />
+        <module name="marco" />
+        <module name="fengshui-profiler" />
+        <module name="polo" />
+        <module name="marathon-server" />
+        <module name="todos" />
         <module name="rockpaper" />
         <module name="drhouse-beds" />
-        <module name="cup" />
+        <module name="dutchman" />
+        <module name="twitter-board" />
         <module name="basketball" />
+        <module name="social-network" />
+        <module name="phone-book" />
         <module name="properties" />
-        <module name="cinema" />
+        <module name="yaml" />
         <module name="drhouse-admission" />
-        <module name="jacksparrow" />
+        <module name="cup" />
         <module name="fengshui-api" />
         <module name="drhouse-diagnoses" />
+        <module name="cinema" />
         <module name="reflection" />
         <module name="trickster" />
       </profile>
@@ -37,6 +40,7 @@
       <module name="basketball" target="11" />
       <module name="cinema" target="11" />
       <module name="cup" target="11" />
+      <module name="drhouse-accountancy" target="11" />
       <module name="drhouse-admission" target="11" />
       <module name="drhouse-beds" target="11" />
       <module name="drhouse-diagnoses" target="11" />
@@ -50,10 +54,12 @@
       <module name="marathon-server" target="11" />
       <module name="marco" target="11" />
       <module name="morse" target="11" />
+      <module name="phone-book" target="11" />
       <module name="polo" target="11" />
       <module name="properties" target="11" />
       <module name="reflection" target="11" />
       <module name="rockpaper" target="11" />
+      <module name="social-network" target="11" />
       <module name="tiadalma" target="11" />
       <module name="todos" target="11" />
       <module name="trickster" target="11" />
@@ -67,6 +73,7 @@
       <module name="basketball" options="-parameters" />
       <module name="cinema" options="-parameters" />
       <module name="cup" options="-parameters" />
+      <module name="drhouse-accountancy" options="-parameters" />
       <module name="drhouse-admission" options="-parameters" />
       <module name="drhouse-beds" options="-parameters" />
       <module name="drhouse-diagnoses" options="-parameters" />
@@ -80,10 +87,12 @@
       <module name="marathon-server" options="-parameters" />
       <module name="marco" options="-parameters" />
       <module name="morse" options="-parameters" />
+      <module name="phone-book" options="-parameters" />
       <module name="polo" options="-parameters" />
       <module name="properties" options="-parameters" />
       <module name="reflection" options="-parameters" />
       <module name="rockpaper" options="-parameters" />
+      <module name="social-network" options="-parameters" />
       <module name="tiadalma" options="-parameters" />
       <module name="todos" options="-parameters" />
       <module name="trickster" options="-parameters" />

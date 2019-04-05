@@ -1,0 +1,18 @@
+info1:
+  patientDTO1:
+    id: 1
+    name: mustafa
+    symptoms: lalalal
+    diagnosis: nonono
+    treatment: staytendayinbed
+  patientDTO2:
+    id: 2
+    name: hala
+    symptoms: lalalal
+    diagnosis: nonono
+    medicine: killyourself
+info:
+  costs:
+    staytendayinbed: 500
+    drinkwater: 30
+    killyourself: 1000

@@ -32,6 +32,9 @@
         <option value="$PROJECT_DIR$/Data/twitter-board/pom.xml" />
         <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-beds/pom.xml" />
         <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/pom.xml" />
+        <option value="$PROJECT_DIR$/mysql/phone-book/pom.xml" />
+        <option value="$PROJECT_DIR$/mysql/social-network/pom.xml" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/pom.xml" />
       </list>
     </option>
   </component>

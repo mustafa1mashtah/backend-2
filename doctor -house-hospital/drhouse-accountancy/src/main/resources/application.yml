@@ -1,0 +1,15 @@
+server:
+  port: 9005
+Spring:
+  datasource:
+    url: jdbc:mysql://localhost/drhouse-accountancy?useSSL=false
+    username: nacsuser
+    password: nacs
+  jpa:
+    hibernate:
+      ddl-auto: update
+info:
+  costs:
+    staytendayinbed: 500
+    drinkwater: 30
+    killyourself: 1000

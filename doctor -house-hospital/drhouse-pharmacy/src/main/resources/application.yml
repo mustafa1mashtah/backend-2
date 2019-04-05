@@ -8,3 +8,5 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost/patients
+ccountancy:
+  url: http://localhost:9005/patients

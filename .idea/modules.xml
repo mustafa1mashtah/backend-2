@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/basketball/basketball.iml" filepath="$PROJECT_DIR$/basketball/basketball.iml" />
       <module fileurl="file://$PROJECT_DIR$/cinemamessages/cinema.iml" filepath="$PROJECT_DIR$/cinemamessages/cinema.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/three-cup-shuffle/cup/cup.iml" filepath="$PROJECT_DIR$/web/three-cup-shuffle/cup/cup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/drhouse-accountancy.iml" filepath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/drhouse-accountancy.iml" />
       <module fileurl="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/drhouse-admission.iml" filepath="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/drhouse-admission.iml" />
       <module fileurl="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-beds/drhouse-beds.iml" filepath="$PROJECT_DIR$/doctor -house-hospital/drhouse-beds/drhouse-beds.iml" />
       <module fileurl="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/drhouse-diagnoses.iml" filepath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/drhouse-diagnoses.iml" />
@@ -18,10 +19,12 @@
       <module fileurl="file://$PROJECT_DIR$/web/marathon-server/marathon-server.iml" filepath="$PROJECT_DIR$/web/marathon-server/marathon-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/polo-marco/marco/marco.iml" filepath="$PROJECT_DIR$/web/polo-marco/marco/marco.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/themorseencoder/morse/morse.iml" filepath="$PROJECT_DIR$/web/themorseencoder/morse/morse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql/phone-book/phone-book.iml" filepath="$PROJECT_DIR$/mysql/phone-book/phone-book.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/polo-marco/polo/polo.iml" filepath="$PROJECT_DIR$/web/polo-marco/polo/polo.iml" />
       <module fileurl="file://$PROJECT_DIR$/properties/properties.iml" filepath="$PROJECT_DIR$/properties/properties.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflectionweek3/reflection.iml" filepath="$PROJECT_DIR$/reflectionweek3/reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/rockpaper.iml" filepath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/rockpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql/social-network/social-network.iml" filepath="$PROJECT_DIR$/mysql/social-network/social-network.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/pirates/tiadalma/tiadalma.iml" filepath="$PROJECT_DIR$/web/pirates/tiadalma/tiadalma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/todos.iml" filepath="$PROJECT_DIR$/Data/my-personal-todo-list/todos/todos.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/three-cup-shuffle/trickster/trickster.iml" filepath="$PROJECT_DIR$/web/three-cup-shuffle/trickster/trickster.iml" />
