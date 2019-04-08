@@ -19,7 +19,9 @@ public class Accountant {
     private final InvoiceManger invoiceManger;
 
     public PatientDTO postOne(PatientDTO patientDTO) {
-        Patient patient = setUUID(patientDTO);
+        Patient patient=new Patient();
+        patient.setUuid(patientDTO.getId());
+        patient.setName(patientDTO.getName());
         patientRepository.save(patient);
         Invoice invoice = invoiceManger.buildInvoice(patientDTO, patient);
         invoiceRepository.save(invoice);

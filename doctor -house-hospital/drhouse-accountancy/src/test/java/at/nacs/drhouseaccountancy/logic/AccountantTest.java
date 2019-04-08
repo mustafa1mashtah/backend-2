@@ -46,6 +46,7 @@ class AccountantTest {
         accountant.postOne(patientDTO1);
         accountant.postOne(patientDTO2);
         List<Invoice> invoices = accountant.getAll();
+        System.out.println(invoices);
         Assertions.assertThat(invoices.get(0).getKind()).isEqualTo(Kind.TREATMENT);
         Assertions.assertThat(invoices.get(1).getKind()).isEqualTo(Kind.MEDICINE);
     }

@@ -19,31 +19,30 @@ public class InvoiceManger {
         Invoice invoice = new Invoice();
         double cost = calculator.calculateCost(patientDTO);
 
-        invoice.builder()
+        Invoice invoice1 = invoice.builder()
                 .patient(patient)
                 .symptoms(patientDTO.getSymptoms())
                 .diagnosis(patientDTO.getDiagnosis())
                 .cost(cost)
                 .timestamp(LocalDateTime.now())
-                .paid(false).build();
+                .paid(false)
+                .build();
 
-        setTreatmentOrMedicineAndKind(invoice, patientDTO);
-        return invoice;
+        setTreatmentOrMedicineAndKind(invoice1, patientDTO);
+        return invoice1;
     }
 
 
     private Invoice setTreatmentOrMedicineAndKind(Invoice invoice, PatientDTO patientDTO) {
         String treatment = patientDTO.getTreatment();
         if (!Objects.equals(treatment, null)) {
-            return invoice.builder()
-                    .provided(treatment)
-                    .kind(Kind.TREATMENT)
-                    .build();
+            invoice.setProvided(treatment);
+            invoice.setKind(Kind.TREATMENT);
+            return invoice;
         }
         String medicine = patientDTO.getMedicine();
-        return invoice.builder()
-                .provided(medicine)
-                .kind(Kind.MEDICINE)
-                .build();
+        invoice.setProvided(medicine);
+        invoice.setKind(Kind.MEDICINE);
+        return invoice;
     }
 }
