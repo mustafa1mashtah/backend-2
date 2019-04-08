@@ -21,7 +21,7 @@ public class Accountant {
     public PatientDTO postOne(PatientDTO patientDTO) {
         Patient patient = setUUID(patientDTO);
         patientRepository.save(patient);
-        Invoice invoice = invoiceManger.buidInvoice(patientDTO, patient);
+        Invoice invoice = invoiceManger.buildInvoice(patientDTO, patient);
         invoiceRepository.save(invoice);
         return patientDTO;
     }
