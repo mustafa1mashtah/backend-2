@@ -3,8 +3,11 @@ package at.nacs.drhouseadmission.controller;
 import at.nacs.drhouseadmission.domain.Patient;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
+import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.mock.mockito.MockBean;
+import org.springframework.boot.test.mock.mockito.SpyBean;
 import org.springframework.boot.test.web.client.TestRestTemplate;
 
 
@@ -15,7 +18,13 @@ import static org.springframework.boot.test.context.SpringBootTest.WebEnvironmen
 class DrhouseadmissionEndpointTest {
 
     @Autowired
-    private TestRestTemplate restTemplate;
+     TestRestTemplate restTemplate;
+
+    @MockBean
+    DiagnosesClient diagnosesClient;
+
+    @SpyBean
+    Admission admission;
 
     private Patient patient = new Patient();
 
@@ -23,12 +32,8 @@ class DrhouseadmissionEndpointTest {
     String url = "/patients";
 
     @Test
-    void addInfo() {
-
-        System.out.println(patient);
-        Patient patient1 = restTemplate.postForObject(url, patient, Patient.class);
-        System.out.println(patient1);
-
-        Assertions.assertThat(patient1.getId()).isNotBlank();
+    void post() {
+        restTemplate.postForObject(url, patient, Patient.class);
+        Mockito.verify(admission).post(Mockito.any());
     }
 }
