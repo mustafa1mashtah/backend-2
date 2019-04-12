@@ -3,7 +3,7 @@ package at.nacs.drhouseaccountancy.logic;
 import at.nacs.drhouseaccountancy.Domain.Invoice;
 import at.nacs.drhouseaccountancy.Domain.Kind;
 import at.nacs.drhouseaccountancy.Domain.Patient;
-import at.nacs.drhouseaccountancy.PatientDTO;
+import at.nacs.drhouseaccountancy.Domain.PatientDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
@@ -33,7 +33,7 @@ public class InvoiceManger {
     }
 
 
-    private Invoice setTreatmentOrMedicineAndKind(Invoice invoice, PatientDTO patientDTO) {
+     Invoice setTreatmentOrMedicineAndKind(Invoice invoice, PatientDTO patientDTO) {
         String treatment = patientDTO.getTreatment();
         if (!Objects.equals(treatment, null)) {
             invoice.setProvided(treatment);

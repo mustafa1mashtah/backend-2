@@ -1,7 +1,7 @@
 package at.nacs.drhouseaccountancy.Endpoint;
 
 import at.nacs.drhouseaccountancy.Domain.Invoice;
-import at.nacs.drhouseaccountancy.PatientDTO;
+import at.nacs.drhouseaccountancy.Domain.PatientDTO;
 import at.nacs.drhouseaccountancy.logic.Accountant;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

@@ -4,7 +4,7 @@ import at.nacs.drhouseaccountancy.Domain.Invoice;
 import at.nacs.drhouseaccountancy.Domain.InvoiceRepository;
 import at.nacs.drhouseaccountancy.Domain.Kind;
 import at.nacs.drhouseaccountancy.Domain.PatientRepository;
-import at.nacs.drhouseaccountancy.PatientDTO;
+import at.nacs.drhouseaccountancy.Domain.PatientDTO;
 import lombok.Setter;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

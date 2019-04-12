@@ -1,4 +1,4 @@
-package at.nacs.drhouseaccountancy;
+package at.nacs.drhouseaccountancy.Domain;
 
 import lombok.Data;
 

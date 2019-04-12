@@ -1,6 +1,6 @@
 package at.nacs.drhouseaccountancy.logic;
 
-import at.nacs.drhouseaccountancy.PatientDTO;
+import at.nacs.drhouseaccountancy.Domain.PatientDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
