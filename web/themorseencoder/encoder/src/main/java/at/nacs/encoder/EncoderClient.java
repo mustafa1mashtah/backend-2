@@ -16,6 +16,6 @@ public class EncoderClient {
     private String url;
 
     public String getMessage(String letter) {
-       return restTemplate.postForObject(url,letter,String.class);
+        return restTemplate.postForObject(url, letter, String.class);
     }
 }

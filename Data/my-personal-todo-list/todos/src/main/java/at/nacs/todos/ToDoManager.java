@@ -23,13 +23,14 @@ public class ToDoManager {
         return todoRepository.save(todo);
     }
 
-    public Optional<Todo> putOne(String id) {
-        Optional<Todo> optionalTodo = findMatch(id);
-        if (optionalTodo.isEmpty()) {
-            return Optional.empty();
+    public void markAsDone(String id) {
+        Optional<Todo> oTodo = findMatch(id);
+        if (oTodo.isEmpty()) {
+            return;
         }
-        optionalTodo.get().setDone(true);
-        return optionalTodo;
+        Todo todo = oTodo.get();
+        todo.setDone(true);
+        todoRepository.save(todo);
     }
 
     public void delete(String id) {

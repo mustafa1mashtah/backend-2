@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Message</title>
+
+    <meta charset="UTF-8"/>
+
+    <link media="all" rel="stylesheet" th:href="@{/css/style.css}" type="text/css"/>
+
+</head>
+<body>
+<h1>Morse Encoded Message</h1>
+<h2>Message sent: <span th:text="${encoded}">Message that you sent</span></h2>
+<form method="post" th:action="@{/}" th:object="${message}">
+    <label>Message to send</label>
+    <input th:field="*{plaintext}" type="text"/>
+    <p th:errors="*{plaintext}" th:if="${#fields.hasErrors('plaintext')}">Incorrect input</p>
+    <button type="submit">Send message</button>
+</form>
+
+</body>
+</html>

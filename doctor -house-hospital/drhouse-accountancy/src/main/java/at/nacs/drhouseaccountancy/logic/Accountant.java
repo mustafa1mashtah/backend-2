@@ -14,7 +14,7 @@ public class Accountant {
     private final InvoiceRepository invoiceRepository;
     private final InvoiceManger invoiceManger;
 
-    public PatientDTO postOne(PatientDTO patientDTO) {
+    public PatientDTO invoice(PatientDTO patientDTO) {
         Patient patient = new Patient();
         patient.setUuid(patientDTO.getId());
         patient.setName(patientDTO.getName());

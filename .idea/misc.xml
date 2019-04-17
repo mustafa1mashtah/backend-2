@@ -35,6 +35,10 @@
         <option value="$PROJECT_DIR$/mysql/phone-book/pom.xml" />
         <option value="$PROJECT_DIR$/mysql/social-network/pom.xml" />
         <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/pom.xml" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/templating/the-magic-8-Ball/pom.xml" />
+        <option value="$PROJECT_DIR$/templating/the-morse -encoder-UI/pom.xml" />
+        <option value="$PROJECT_DIR$/templating/my-personal-todo-list-ui/pom.xml" />
       </list>
     </option>
   </component>

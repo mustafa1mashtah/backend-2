@@ -28,8 +28,8 @@ public class TodoEndpoint {
     }
 
     @PutMapping("/{id}/done")
-    Optional<Todo> putOne(@PathVariable String id) {
-        return toDoManager.putOne(id);
+    void putOne(@PathVariable String id) {
+        toDoManager.markAsDone(id);
     }
 
     @DeleteMapping("/{id}")

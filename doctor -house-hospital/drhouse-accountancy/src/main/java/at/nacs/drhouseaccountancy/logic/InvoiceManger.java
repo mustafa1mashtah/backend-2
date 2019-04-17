@@ -16,10 +16,9 @@ public class InvoiceManger {
     private final AccountantCalculator calculator;
 
     public Invoice buildInvoice(PatientDTO patientDTO, Patient patient) {
-        Invoice invoice = new Invoice();
         double cost = calculator.calculateCost(patientDTO);
 
-        Invoice invoice1 = invoice.builder()
+        Invoice invoice1 = Invoice.builder()
                 .patient(patient)
                 .symptoms(patientDTO.getSymptoms())
                 .diagnosis(patientDTO.getDiagnosis())

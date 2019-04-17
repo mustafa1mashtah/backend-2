@@ -1,7 +1,10 @@
 package at.nacs.encoder;
 
 import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
@@ -16,9 +19,9 @@ public class EncoderEndpoint {
     @PostMapping
     String get(@RequestBody String message) {
 
-       return Arrays.asList(message.replaceAll(" ", "").split(""))
+        return Arrays.asList(message.replaceAll(" ", "").split(""))
                 .stream()
-                .map(e -> encoderClient.getMessage(e))
+                .map(encoderClient::getMessage)
                 .collect(Collectors.joining());
     }
 }

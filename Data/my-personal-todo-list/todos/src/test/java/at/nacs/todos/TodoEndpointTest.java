@@ -56,7 +56,7 @@ class TodoEndpointTest {
     void putOne() {
         testRestTemplate.put(url + "/mustafa/done", Optional.class);
 
-        verify(toDoManager).putOne(anyString());
+        verify(toDoManager).markAsDone(anyString());
     }
 
     @Test

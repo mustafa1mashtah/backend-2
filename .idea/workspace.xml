@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe5ca296-54a8-4695-8af1-9dfa42012894" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/DiagnosesManger.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/DiagnosesManger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/test/java/at/nacs/drhousediagnoses/DrHauseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/test/java/at/nacs/drhousediagnoses/DrHauseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/test/java/at/nacs/drhousediagnoses/controller/DrhouseDiagnosesEndpointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/test/java/at/nacs/drhousediagnoses/controller/DrhouseDiagnosesEndpointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/ToDoManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/ToDoManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/TodoEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/TodoEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/test/java/at/nacs/todos/ToDoManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/test/java/at/nacs/todos/ToDoManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/test/java/at/nacs/todos/TodoEndpointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/test/java/at/nacs/todos/TodoEndpointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/PatientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/PatientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Endpoint/AccountancyEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Endpoint/AccountancyEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/AccountancyConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/AccountancyConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/AccountantCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/AccountantCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/InvoiceManger.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/InvoiceManger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/test/java/at/nacs/drhouseaccountancy/logic/AccountantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/test/java/at/nacs/drhouseaccountancy/logic/AccountantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/DrHause.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/DrHause.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domain/Diagnosises.java" beforeDir="false" afterPath="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domain/Diagnosises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderEndpoint.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/properties/target/" />
     <ignored path="$PROJECT_DIR$/yaml/target/" />
@@ -36,6 +54,10 @@
     <ignored path="$PROJECT_DIR$/mysql/phone-book/target/" />
     <ignored path="$PROJECT_DIR$/mysql/social-network/target/" />
     <ignored path="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/target/" />
+    <ignored path="$PROJECT_DIR$/templating/lecture-exercise/target/" />
+    <ignored path="$PROJECT_DIR$/templating/the-magic-8-Ball/target/" />
+    <ignored path="$PROJECT_DIR$/templating/the-morse -encoder-UI/target/" />
+    <ignored path="$PROJECT_DIR$/templating/my-personal-todo-list-ui/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,112 +70,109 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/java/at/nacs/drhouseadmission/controller/DiagnosesClient.java">
+        <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/resources/templates/my-personal-todo-list-ui.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="177">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/DiagnosesManger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-              <folding>
-                <element signature="e#1055#1056#0" expanded="true" />
-                <element signature="e#1125#1126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/test/java/at/nacs/drhousediagnoses/DrHauseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/DrhouseDiagnosesEndpoint.java">
+        <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/model/Todo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="17" />
               <folding>
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#660#661#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/MyPersonalTodoListUiApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/RestTemplateConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/TodoClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/TodoEndpoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+              <folding>
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/test/java/at/nacs/drhousediagnoses/controller/DrhouseDiagnosesEndpointTest.java">
+        <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/test/java/at/nacs/todos/ToDoManagerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+            <state relative-caret-position="263">
+              <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/test/java/at/nacs/drhousepharmacy/PharmacyEndpointTest.java">
+        <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/test/java/at/nacs/todos/TodoEndpointTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="36" column="54" lean-forward="true" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+            <state relative-caret-position="-711">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/test/java/at/nacs/drhouseadmission/controller/DrhouseadmissionEndpointTest.java">
+        <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/ToDoManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="528">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/BedsClient.java">
+        <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/controller/MyPersonalToDoListUIController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="309">
+              <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/PharmacyClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/DrHause.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -167,6 +186,8 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="CSS File" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -182,57 +203,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mysql/phone-book/src/main/java/nacs/at/phonebook/phoneBookEndpoint/PhoneBookEndpoint.java" />
-        <option value="$PROJECT_DIR$/mysql/phone-book/src/test/java/nacs/at/phonebook/logic/ContactManagerTest.java" />
-        <option value="$PROJECT_DIR$/mysql/phone-book/src/test/java/nacs/at/phonebook/phoneBookEndpoint/PhoneBookEndpointTest.java" />
-        <option value="$PROJECT_DIR$/mysql/phone-book/src/test/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mysql/phone-book/src/main/java/nacs/at/phonebook/Persistance/ContactRepository.java" />
-        <option value="$PROJECT_DIR$/mysql/phone-book/src/main/java/nacs/at/phonebook/logic/ContactManager.java" />
-        <option value="$PROJECT_DIR$/mysql/social-network/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mysql/social-network/src/test/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mysql/social-network/src/main/java/at/nacs/socialnetwork/personEndpoint/PersonEndpoint.java" />
-        <option value="$PROJECT_DIR$/mysql/social-network/src/test/java/at/nacs/socialnetwork/personEndpoint/PersonEndpointTest.java" />
-        <option value="$PROJECT_DIR$/mysql/social-network/src/test/java/at/nacs/socialnetwork/logic/PersonManagerTest.java" />
-        <option value="$PROJECT_DIR$/mysql/social-network/src/main/java/at/nacs/socialnetwork/persistance/Person.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/PatientDTO.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/Patient.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/Kind.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/AccountancyRepository.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/AccountancyRepository.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/PersonRepository.java" />
-        <option value="$PROJECT_DIR$/mysql/social-network/src/main/java/at/nacs/socialnetwork/logic/PersonManager.java" />
-        <option value="$PROJECT_DIR$/mysql/social-network/src/main/java/at/nacs/socialnetwork/persistance/PersonRepository.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/AccountancyConfiguration.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/Endpoint/AccountancyEndpoint.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Endpoint/AccountancyEndpoint.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/PatientRepository.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-beds/src/main/java/at/nacs/drhousebeds/BedsManger.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-beds/src/main/java/at/nacs/drhousebeds/RestTemplateConfiguration.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/RestTemplateConfiguration.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/PharmacyEndpoint.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/ApothecaryManeger.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/AccountantCalculator.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/test/java/at/nacs/drhouseaccountancy/DrhouseAccountancyApplicationTests.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/test/resources/application.yml" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/Invoice.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/test/java/at/nacs/drhouseaccountancy/logic/AccountantTest.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Accountant.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/InvoiceManger.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/java/at/nacs/drhouseadmission/controller/DiagnosesClient.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/test/java/at/nacs/drhouseadmission/controller/DrhouseadmissionEndpointTest.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/test/resources/application.yml" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/Apothecary.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/java/at/nacs/drhouseadmission/controller/Admission.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/test/java/at/nacs/drhouseadmission/controller/AdmissionTest.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/InvoiceRepository.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/java/at/nacs/drhouseadmission/controller/DrhouseadmissionEndpoint.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/BedsClient.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/PharmacyClient.java" />
-        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/DiagnosesManger.java" />
         <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/test/java/at/nacs/drhousediagnoses/DrHauseTest.java" />
         <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/test/java/at/nacs/drhousediagnoses/controller/DrhouseDiagnosesEndpointTest.java" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/PatientDTO.java" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Accountant.java" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/pom.xml" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/PatientRepository.java" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Endpoint/AccountancyEndpoint.java" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/InvoiceManger.java" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/test/java/at/nacs/drhouseaccountancy/logic/AccountantTest.java" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/static/style.css" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/templates/simple-message.html" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/model/Message.java" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/controller/SimpleMessageController.java" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/templates/messages/simple-message2.html" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/controller/SimpleMessage2Controller.java" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/templates/messages/model-message.html" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/controller/ModelMessageController.java" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/AccountantCalculator.java" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/AccountancyConfiguration.java" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domain/Diagnosises.java" />
+        <option value="$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/DrHause.java" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/templates/messages/form-message.html" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/controller/FormMessageController.java" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/templates/messages/validated-form-message.html" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/model/ValidatedMessage.java" />
+        <option value="$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/controller/ValidatedFormMessageController.java" />
+        <option value="$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/resources/templates/magic-8-ball.html" />
+        <option value="$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/java/nacs/at/themagic8ball/view/model/MessageGenerator.java" />
+        <option value="$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/java/nacs/at/themagic8ball/view/controller/Magic8BallController.java" />
+        <option value="$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/java/nacs/at/themagic8ball/view/model/MessageConfiguration.java" />
+        <option value="$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/resources/static/css/styel.css" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderEndpoint.java" />
+        <option value="$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderClient.java" />
+        <option value="$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/java/nacs/at/themorseencoderui/view/model/Message.java" />
+        <option value="$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/java/nacs/at/themorseencoderui/view/controller/MorseEncoderUIController.java" />
+        <option value="$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/java/nacs/at/themorseencoderui/RestTemplateConfiguration.java" />
+        <option value="$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/java/nacs/at/themorseencoderui/logic/EncoderClient.java" />
+        <option value="$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/resources/templates/morse-encoder-ui.html" />
+        <option value="$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/hi.java" />
+        <option value="$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/controller/MyPersonalToDoListUI.java" />
+        <option value="$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/RestTemplateConfiguration.java" />
+        <option value="$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/TodoClient.java" />
+        <option value="$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/model/Todo.java" />
+        <option value="$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/controller/MyPersonalToDoListUIController.java" />
+        <option value="$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/resources/templates/my-personal-todo-list-ui.html" />
+        <option value="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/ToDoManager.java" />
+        <option value="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/TodoEndpoint.java" />
+        <option value="$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/test/java/at/nacs/todos/ToDoManagerTest.java" />
       </list>
     </option>
   </component>
@@ -262,7 +283,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="27" />
-    <option name="width" value="1833" />
+    <option name="width" value="1823" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -295,86 +316,65 @@
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-accountancy" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-accountancy" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-accountancy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-accountancy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-accountancy" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouseaccountancy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-accountancy" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouseaccountancy" type="462c0819:PsiDirectoryNode" />
-              <item name="Domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-accountancy" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouseaccountancy" type="462c0819:PsiDirectoryNode" />
-              <item name="Endpoint" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-accountancy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouseaccountancy" type="462c0819:PsiDirectoryNode" />
-              <item name="logic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-accountancy" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -382,29 +382,64 @@
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="todos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -412,51 +447,53 @@
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouseadmission" type="462c0819:PsiDirectoryNode" />
+              <item name="lectureexercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouseadmission" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="lectureexercise" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouseadmission" type="462c0819:PsiDirectoryNode" />
+              <item name="lectureexercise" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouseadmission" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="lectureexercise" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -464,116 +501,60 @@
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouseadmission" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouseadmission" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-admission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-beds" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-beds" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture-exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-beds" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-beds" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-beds" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhousebeds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -581,40 +562,53 @@
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhousediagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="mypersonaltodolistui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhousediagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="mypersonaltodolistui" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mypersonaltodolistui" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhousediagnoses" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="mypersonaltodolistui" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -622,107 +616,99 @@
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="my-personal-todo-list-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="the-morse -encoder-UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="the-morse -encoder-UI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="the-morse -encoder-UI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="the-morse -encoder-UI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="the-morse -encoder-UI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhousediagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="themorseencoderui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-diagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="the-morse -encoder-UI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhousediagnoses" type="462c0819:PsiDirectoryNode" />
+              <item name="themorseencoderui" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="the-morse -encoder-UI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="themorseencoderui" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-pharmacy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-pharmacy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-pharmacy" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="the-morse -encoder-UI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-pharmacy" type="462c0819:PsiDirectoryNode" />
+              <item name="templating" type="462c0819:PsiDirectoryNode" />
+              <item name="the-morse -encoder-UI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-pharmacy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhousepharmacy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-pharmacy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-pharmacy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor -house-hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="drhouse-pharmacy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drhousepharmacy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -731,6 +717,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -743,6 +730,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/test" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -770,9 +758,6 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="at.nacs.drhouseaccountancy" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="at.nacs.drhousepharmacy" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/test" />
       <recent name="$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/test" />
@@ -780,7 +765,14 @@
       <recent name="$PROJECT_DIR$/mysql/phone-book/src/test/java" />
       <recent name="$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/test" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nacs.at.mypersonaltodolistui.view" />
+      <recent name="nacs.at.mypersonaltodolistui.view.model" />
+      <recent name="at.nacs.drhousepharmacy" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/templates/messages" />
+      <recent name="$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/static/css" />
       <recent name="$PROJECT_DIR$/mysql/phone-book/src/test" />
       <recent name="$PROJECT_DIR$/web" />
     </key>
@@ -804,7 +796,7 @@
     </option>
     <option name="contentProportion" value="0.25182688" />
   </component>
-  <component name="RunManager" selected="JUnit.DrhouseDiagnosesEndpointTest">
+  <component name="RunManager" selected="Spring Boot.TodosApplication">
     <configuration name="AccountantTest.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="drhouse-accountancy" />
       <extension name="coverage">
@@ -979,6 +971,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LectureExerciseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lecture-exercise" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nacsat.lectureexercise.LectureExerciseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MarathonServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="marathon-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.marathonserver.MarathonServerApplication" />
@@ -996,6 +995,13 @@
     <configuration name="MorseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="morse" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.morse.MorseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyPersonalTodoListUiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-personal-todo-list-ui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nacs.at.mypersonaltodolistui.MyPersonalTodoListUiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1031,6 +1037,20 @@
     <configuration name="SocialNetworkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="social-network" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.socialnetwork.SocialNetworkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheMagic8BallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="the-magic-8-ball" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nacs.at.themagic8ball.TheMagic8BallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheMorseEncoderUiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="the-morse-encoder-ui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nacs.at.themorseencoderui.TheMorseEncoderUiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1072,6 +1092,10 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.AccountantTest.getAll" />
+      <item itemvalue="JUnit.DrhouseadmissionEndpointTest" />
+      <item itemvalue="JUnit.AdmissionTest" />
+      <item itemvalue="JUnit.DrHauseTest" />
+      <item itemvalue="JUnit.DrhouseDiagnosesEndpointTest" />
       <item itemvalue="Spring Boot.CinemaApplication" />
       <item itemvalue="Spring Boot.MarathonServerApplication" />
       <item itemvalue="Spring Boot.ReflectionApplication" />
@@ -1099,10 +1123,10 @@
       <item itemvalue="Spring Boot.PhoneBookApplication" />
       <item itemvalue="Spring Boot.SocialNetworkApplication" />
       <item itemvalue="Spring Boot.DrhouseAccountancyApplication" />
-      <item itemvalue="JUnit.DrhouseadmissionEndpointTest" />
-      <item itemvalue="JUnit.AdmissionTest" />
-      <item itemvalue="JUnit.DrHauseTest" />
-      <item itemvalue="JUnit.DrhouseDiagnosesEndpointTest" />
+      <item itemvalue="Spring Boot.LectureExerciseApplication" />
+      <item itemvalue="Spring Boot.TheMagic8BallApplication" />
+      <item itemvalue="Spring Boot.TheMorseEncoderUiApplication" />
+      <item itemvalue="Spring Boot.MyPersonalTodoListUiApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -1140,14 +1164,15 @@
       <workItem from="1554211125504" duration="32064000" />
       <workItem from="1554382583054" duration="21454000" />
       <workItem from="1554709814115" duration="1522000" />
-      <workItem from="1554729348715" duration="12981000" />
+      <workItem from="1554729348715" duration="14434000" />
+      <workItem from="1554880958006" duration="630000" />
+      <workItem from="1555057284211" duration="3833000" />
+      <workItem from="1555072700022" duration="11840000" />
+      <workItem from="1555401328520" duration="22753000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AdmissionTest - 2019.04.08 at 17h 50m 32s.xml">
-      <configuration name="AdmissionTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AdmissionTest - 2019.04.08 at 17h 51m 10s.xml">
       <configuration name="AdmissionTest" configurationId="JUnit" />
     </history-entry>
@@ -1175,9 +1200,12 @@
     <history-entry file="DrhouseDiagnosesEndpointTest - 2019.04.09 at 10h 25m 28s.xml">
       <configuration name="DrhouseDiagnosesEndpointTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DrhouseDiagnosesEndpointTest - 2019.04.09 at 10h 32m 38s.xml">
+      <configuration name="DrhouseDiagnosesEndpointTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266405000" />
+    <option name="totallyTimeSpent" value="306914000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1192,7 +1220,7 @@
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29773104" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31211954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1215,7 +1243,7 @@
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3293348" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.36641222" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.36641222" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1227,122 +1255,94 @@
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30824572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293348" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3293348" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3293348" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.36641222" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.13392363" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/PharmacyRepository.java">
+    <entry file="file://$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/controller/SimpleMessage2Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="67" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/PharmacyEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/PharmacyConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/Patient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/ApothecaryManeger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/test/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/test/java/at/nacs/drhouseaccountancy/DrhouseAccountancyApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/controller/SimpleMessageController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-beds/src/test/java/at/nacs/drhousebeds/NurseTest.java">
+    <entry file="file://$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/model/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-beds/src/test/java/at/nacs/drhousebeds/DrhouseBedsApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/test/java/at/nacs/drhouseaccountancy/logic/AccountantTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        <state relative-caret-position="286">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/test/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/test/java/at/nacs/drhousepharmacy/ApothecaryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/Apothecary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/test/java/at/nacs/drhouseadmission/controller/AdmissionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="100" column="50" selection-start-line="100" selection-start-column="50" selection-end-line="100" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/AccountancyConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Accountant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1351,291 +1351,374 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/AccountantCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/java/nacs/at/themagic8ball/TheMagic8BallApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/resources/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/configuration/MovesConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/logic/ConvertNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/java/nacs/at/themagic8ball/view/controller/Magic8BallController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/java/nacs/at/themagic8ball/view/model/MessageConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/resources/templates/magic-8-ball.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/java/nacs/at/themagic8ball/view/model/MessageGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-magic-8-Ball/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/java/nacs/at/themorseencoderui/view/hi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/templates/messages/form-message.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-magic-8-Ball/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/java/at/nacs/drhouseadmission/controller/DiagnosesClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/controller/ValidatedFormMessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/lecture-exercise/src/main/java/nacsat/lectureexercise/view/controller/FormMessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/java/nacs/at/themorseencoderui/TheMorseEncoderUiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/RestTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/java/nacs/at/themorseencoderui/view/model/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/encoder/src/main/java/at/nacs/encoder/EncoderClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themorseencoder/morse/src/main/java/at/nacs/morse/MorseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/lecture-exercise/src/main/resources/templates/messages/validated-form-message.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/InvoiceManger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/Invoice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/InvoiceRepository.java">
+    <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/TodoRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/Kind.java">
+    <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/hi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/Patient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Domain/PatientRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/java/at/nacs/drhouseadmission/domain/Patient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/java/at/nacs/drhouseadmission/DrhouseAdmissionApplication.java">
+    <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/Todo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-beds/src/main/java/at/nacs/drhousebeds/DrhouseBedsApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/DrhouseAccountancyApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/Endpoint/AccountancyEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/PatientDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/DrhousePharmacyApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/java/at/nacs/drhouseadmission/controller/DrhouseadmissionEndpoint.java">
+    <entry file="file://$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/java/nacs/at/themorseencoderui/logic/EncoderClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/java/at/nacs/drhouseadmission/controller/Admission.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Accountant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-accountancy/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/java/nacs/at/themorseencoderui/view/controller/MorseEncoderUIController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="560">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/DrhouseDiagnosesApplication.java">
+    <entry file="file://$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/resources/templates/morse-encoder-ui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="93" selection-start-line="16" selection-start-column="93" selection-end-line="16" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/TodosApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/RestTempletConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/templating/the-morse -encoder-UI/src/main/java/nacs/at/themorseencoderui/RestTemplateConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domain/Patient.java">
+    <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/RestTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/MyPersonalTodoListUiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/model/Todo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domain/Directions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="17" />
           <folding>
-            <element signature="e#0#408#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domain/Diagnosises.java">
+    <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/resources/templates/my-personal-todo-list-ui.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="177">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/main/java/at/nacs/drhouseadmission/controller/DiagnosesClient.java">
+    <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/controller/MyPersonalToDoListUIController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="309">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/BedsClient.java">
+    <entry file="file://$PROJECT_DIR$/templating/my-personal-todo-list-ui/src/main/java/nacs/at/mypersonaltodolistui/view/TodoClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="287">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
             <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/test/java/at/nacs/drhousediagnoses/DrHauseTest.java">
+    <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/ToDoManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="528">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-admission/src/test/java/at/nacs/drhouseadmission/controller/DrhouseadmissionEndpointTest.java">
+    <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/main/java/at/nacs/todos/TodoEndpoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/DrhouseDiagnosesEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="462">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
           <folding>
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/DrHause.java">
+    <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/test/java/at/nacs/todos/TodoEndpointTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="-711">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/DiagnosesManger.java">
+    <entry file="file://$PROJECT_DIR$/Data/my-personal-todo-list/todos/src/test/java/at/nacs/todos/ToDoManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-          <folding>
-            <element signature="e#1055#1056#0" expanded="true" />
-            <element signature="e#1125#1126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/controller/PharmacyClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-pharmacy/src/test/java/at/nacs/drhousepharmacy/PharmacyEndpointTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="36" column="54" lean-forward="true" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor -house-hospital/drhouse-diagnoses/src/test/java/at/nacs/drhousediagnoses/controller/DrhouseDiagnosesEndpointTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        <state relative-caret-position="263">
+          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
         </state>
       </provider>
     </entry>

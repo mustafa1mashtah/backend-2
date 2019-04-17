@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Templating</title>
+
+    <meta charset="UTF-8"/>
+
+    <link media="all" rel="stylesheet" th:href="@{/css/style.css}" type="text/css"/>
+
+</head>
+<body>
+
+<h2>To-Dos</h2>
+<table>
+    <tr>
+        <th>To-Do</th>
+        <th>Actions</th>
+    </tr>
+    <tr th:each="todo : ${todos}">
+        <td th:text="${todo.title}">Name</td>
+        <td th:if="${todo.done == false}">
+            <form method="post" th:action="@{/done}">
+                <input name="id" th:value="${todo.id}" type="hidden"/>
+                <button type="submit">Done</button>
+            </form>
+        </td>
+        <td th:if="${todo.done == true}">Done!</td>
+    </tr>
+</table>
+
+<h2>Add new todo</h2>
+<form method="post" th:action="@{/}" th:object="${todo}">
+    <label>todo: </label>
+    <input th:field="*{title}" type="text"/>
+    <p th:errors="*{title}" th:if="${#fields.hasErrors('title')}">Incorrect input</p>
+    <br/>
+    <button type="submit">Add todo</button>
+</form>
+
+</body>
+</html>

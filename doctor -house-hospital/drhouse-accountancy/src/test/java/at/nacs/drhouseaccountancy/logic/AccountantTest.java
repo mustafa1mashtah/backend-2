@@ -43,8 +43,8 @@ class AccountantTest {
 
     @Test
     void getAll() {
-        accountant.postOne(patientDTO1);
-        accountant.postOne(patientDTO2);
+        accountant.invoice(patientDTO1);
+        accountant.invoice(patientDTO2);
         List<Invoice> invoices = accountant.getAll();
         System.out.println(invoices);
         Assertions.assertThat(invoices.get(0).getKind()).isEqualTo(Kind.TREATMENT);
@@ -53,9 +53,10 @@ class AccountantTest {
 
     @Test
     void putPaid() {
-        accountant.postOne(patientDTO1);
+        //accountant.invoice(patientDTO1);
         List<Invoice> invoices = invoiceRepository.findAll();
         Invoice invoice = invoices.get(0);
+        invoice.setPaid(false);
         Long id = invoice.getId();
         
         accountant.putPaid(id);

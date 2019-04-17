@@ -16,7 +16,7 @@ public class AccountancyEndpoint {
 
     @PostMapping("/patients")
     PatientDTO postOne(@RequestBody PatientDTO patientDTO) {
-        return accountant.postOne(patientDTO);
+        return accountant.invoice(patientDTO);
     }
 
     @GetMapping("/invoices")

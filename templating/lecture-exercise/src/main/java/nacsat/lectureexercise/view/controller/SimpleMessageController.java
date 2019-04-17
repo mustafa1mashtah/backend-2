@@ -1,0 +1,21 @@
+package nacsat.lectureexercise.view.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/message/simple")
+public class SimpleMessageController {
+    @ModelAttribute("message")
+    String message(){
+        return "Message from the View Controller";
+    }
+
+
+    @GetMapping
+    String page(){
+        return "messages/simple-message";
+    }
+}
