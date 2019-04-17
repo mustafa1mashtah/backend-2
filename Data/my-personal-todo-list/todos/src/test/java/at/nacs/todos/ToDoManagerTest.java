@@ -69,10 +69,12 @@ class ToDoManagerTest {
 
     @Test
     void putOne() {
-        String id = manager.findAll().get(0).getId();
+        Todo todo = manager.findAll().get(0);
+        String id = todo.getId();
         manager.markAsDone(id);
+        Optional<Todo> actual = repository.findById(id);
 
-        //Assertions.assertThat(actual.get().isDone()).isTrue();
+        Assertions.assertThat(actual.get().isDone()).isTrue();
     }
 
     @Test
