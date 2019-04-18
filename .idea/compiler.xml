@@ -7,25 +7,25 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="phone-book" />
-        <module name="basketball" />
         <module name="cinema" />
         <module name="lecture-exercise" />
         <module name="drhouse-beds" />
         <module name="drhouse-accountancy" />
-        <module name="todos" />
+        <module name="the-morse-encoder-ui" />
         <module name="drhouse-pharmacy" />
-        <module name="morse" />
+        <module name="encoder" />
         <module name="fengshui-profiler" />
         <module name="polo" />
+        <module name="todos" />
         <module name="twitter-board" />
         <module name="drhouse-diagnoses" />
         <module name="cup" />
         <module name="reflection" />
-        <module name="encoder" />
+        <module name="morse" />
         <module name="properties" />
         <module name="marathon-server" />
         <module name="jacksparrow" />
-        <module name="the-morse-encoder-ui" />
+        <module name="basketball" />
         <module name="dutchman" />
         <module name="trickster" />
         <module name="my-personal-todo-list-ui" />
@@ -35,6 +35,7 @@
         <module name="social-network" />
         <module name="rockpaper" />
         <module name="the-magic-8-ball" />
+        <module name="home-page" />
         <module name="marco" />
         <module name="drhouse-admission" />
       </profile>
@@ -54,6 +55,7 @@
       <module name="fengshui-api" target="11" />
       <module name="fengshui-profiler" target="11" />
       <module name="fundementals2" target="11" />
+      <module name="home-page" target="11" />
       <module name="jacksparrow" target="11" />
       <module name="lecture-exercise" target="11" />
       <module name="marathon-server" target="11" />
@@ -91,6 +93,7 @@
       <module name="fengshui-api" options="-parameters" />
       <module name="fengshui-profiler" options="-parameters" />
       <module name="fundementals2" options="-parameters" />
+      <module name="home-page" options="-parameters" />
       <module name="jacksparrow" options="-parameters" />
       <module name="lecture-exercise" options="-parameters" />
       <module name="marathon-server" options="-parameters" />

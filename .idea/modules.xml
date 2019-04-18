@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/web/feng-shui-compatibility/fengshui-api/fengshui-api.iml" filepath="$PROJECT_DIR$/web/feng-shui-compatibility/fengshui-api/fengshui-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/feng-shui-compatibility/fengshui-profiler/fengshui-profiler.iml" filepath="$PROJECT_DIR$/web/feng-shui-compatibility/fengshui-profiler/fengshui-profiler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/fundamentals.iml" filepath="$PROJECT_DIR$/.idea/fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doctor -house-hospital/administration/home-page/home-page.iml" filepath="$PROJECT_DIR$/doctor -house-hospital/administration/home-page/home-page.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/pirates/jacksparrow/jacksparrow.iml" filepath="$PROJECT_DIR$/web/pirates/jacksparrow/jacksparrow.iml" />
       <module fileurl="file://$PROJECT_DIR$/templating/lecture-exercise/lecture-exercise.iml" filepath="$PROJECT_DIR$/templating/lecture-exercise/lecture-exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/marathon-server/marathon-server.iml" filepath="$PROJECT_DIR$/web/marathon-server/marathon-server.iml" />
