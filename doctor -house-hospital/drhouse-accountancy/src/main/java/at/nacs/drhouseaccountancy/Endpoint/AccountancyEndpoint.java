@@ -1,31 +1,21 @@
 package at.nacs.drhouseaccountancy.Endpoint;
 
-import at.nacs.drhouseaccountancy.Domain.Invoice;
 import at.nacs.drhouseaccountancy.Domain.PatientDTO;
 import at.nacs.drhouseaccountancy.logic.Accountant;
 import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.*;
-
-import java.util.List;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping
+@RequestMapping("/patients")
 @RequiredArgsConstructor
 public class AccountancyEndpoint {
     private final Accountant accountant;
 
-    @PostMapping("/patients")
+    @PostMapping
     PatientDTO postOne(@RequestBody PatientDTO patientDTO) {
         return accountant.invoice(patientDTO);
-    }
-
-    @GetMapping("/invoices")
-    List<Invoice> getAll() {
-        return accountant.getAll();
-    }
-
-    @PutMapping("/invoices/{id}/paid")
-    void setPaid(@PathVariable Long id) {
-        accountant.putPaid(id);
     }
 }

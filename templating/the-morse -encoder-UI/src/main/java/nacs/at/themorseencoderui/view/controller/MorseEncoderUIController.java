@@ -30,11 +30,11 @@ public class MorseEncoderUIController {
     }
 
     @PostMapping
-    String post(@Valid Message message, BindingResult result, RedirectAttributesModelMap redirect ) {
+    String post(@Valid Message message, BindingResult result, RedirectAttributesModelMap redirect) {
         if (result.hasErrors()) {
             return page();
         }
-        redirect.addFlashAttribute("encoded",encoderClient.sendToEncoder(message));
+        redirect.addFlashAttribute("encoded", encoderClient.sendToEncoder(message));
         return "redirect:/";
     }
 }
