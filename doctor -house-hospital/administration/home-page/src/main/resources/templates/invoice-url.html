@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Templating</title>
+
+    <meta charset="UTF-8"/>
+
+    <link media="all" rel="stylesheet" th:href="@{/css/style.css}" type="text/css"/>
+
+</head>
+<body>
+
+<h2>Invoices</h2>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Kind</th>
+        <th>Symptoms</th>
+        <th>Diagnosis</th>
+        <th>Provided</th>
+        <th>Cost</th>
+        <th>Timestamp</th>
+        <th>Paid</th>
+    </tr>
+    <tr th:each="invoice : ${invoices}">
+        <td th:text="${invoice.id}">Id</td>
+        <td th:text="${invoice.patient.name}">Name</td>
+        <td th:text="${invoice.kind}">kind</td>
+        <td th:text="${invoice.symptoms}">symptoms</td>
+        <td th:text="${invoice.diagnosis}">diagnosis</td>
+        <td th:text="${invoice.provided}">provided</td>
+        <td th:text="${invoice.cost}">cost</td>
+        <td th:text="${invoice.timestamp}">timestamp</td>
+        <td th:if="${invoice.paid == false}">
+            <form method="post" th:action="@{/invoices/paid}">
+                <input name="id" th:value="${invoice.id}" type="hidden"/>
+                <button type="submit">Done</button>
+            </form>
+        </td>
+        <td th:if="${invoice.paid == true}">Done!</td>
+    </tr>
+</table>
+
+
+
+</body>
+</html>
