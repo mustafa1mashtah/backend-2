@@ -41,6 +41,9 @@
         <td th:if="${invoice.paid == true}">Paid!</td>
     </tr>
 </table>
+<form method="post" th:action="@{/logout}">
+    <button>Sign Out</button>
+</form>
 
 
 
