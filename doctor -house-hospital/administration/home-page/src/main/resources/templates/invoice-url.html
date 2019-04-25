@@ -35,10 +35,10 @@
         <td th:if="${invoice.paid == false}">
             <form method="post" th:action="@{/invoices/paid}">
                 <input name="id" th:value="${invoice.id}" type="hidden"/>
-                <button type="submit">Done</button>
+                <button type="submit">Mark as paid</button>
             </form>
         </td>
-        <td th:if="${invoice.paid == true}">Done!</td>
+        <td th:if="${invoice.paid == true}">Paid!</td>
     </tr>
 </table>
 

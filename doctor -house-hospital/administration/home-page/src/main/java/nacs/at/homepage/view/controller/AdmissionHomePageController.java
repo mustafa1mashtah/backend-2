@@ -1,7 +1,7 @@
 package nacs.at.homepage.view.controller;
 
 import lombok.RequiredArgsConstructor;
-import nacs.at.homepage.view.AdmissionClient;
+import nacs.at.homepage.comunication.AdmissionClient;
 import nacs.at.homepage.view.model.Patient;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;

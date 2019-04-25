@@ -40,6 +40,9 @@
         <option value="$PROJECT_DIR$/templating/the-morse -encoder-UI/pom.xml" />
         <option value="$PROJECT_DIR$/templating/my-personal-todo-list-ui/pom.xml" />
         <option value="$PROJECT_DIR$/doctor -house-hospital/administration/home-page/pom.xml" />
+        <option value="$PROJECT_DIR$/security/thieves-den/pom.xml" />
+        <option value="$PROJECT_DIR$/security/hotel-room-safe/pom.xml" />
+        <option value="$PROJECT_DIR$/security/dead-men-tell-no-tales/pom.xml" />
       </list>
     </option>
   </component>

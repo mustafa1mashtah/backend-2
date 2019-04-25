@@ -1,4 +1,4 @@
-package nacs.at.homepage.view;
+package nacs.at.homepage.comunication;
 
 import lombok.RequiredArgsConstructor;
 import nacs.at.homepage.view.model.Patient;
@@ -14,7 +14,7 @@ public class AdmissionClient {
     @Value("${admission.url}")
     private String url;
 
-    public Patient sent(Patient patient){
-        return restTemplate.postForObject(url,patient,Patient.class);
+    public Patient sent(Patient patient) {
+        return restTemplate.postForObject(url, patient, Patient.class);
     }
 }

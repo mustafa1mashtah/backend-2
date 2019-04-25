@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Security</title>
+</head>
+<body>
+<h1>your personal belongs</h1>
+<ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+</ul>
+<form method="post" th:action="@{/logout}">
+    <button>Sign Out</button>
+</form>
+</body>
+</html>

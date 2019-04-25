@@ -1,7 +1,7 @@
 package nacs.at.homepage.view.controller;
 
 import lombok.RequiredArgsConstructor;
-import nacs.at.homepage.view.InvoiceClient;
+import nacs.at.homepage.comunication.InvoiceClient;
 import nacs.at.homepage.view.model.Invoice;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;

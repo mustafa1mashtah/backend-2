@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="phone-book" />
+        <module name="jacksparrow" />
         <module name="cinema" />
         <module name="lecture-exercise" />
         <module name="drhouse-beds" />
@@ -19,12 +20,14 @@
         <module name="todos" />
         <module name="twitter-board" />
         <module name="drhouse-diagnoses" />
+        <module name="dead-men-tell-no-tales" />
         <module name="cup" />
         <module name="reflection" />
         <module name="morse" />
         <module name="properties" />
+        <module name="social-network" />
+        <module name="thieves-den" />
         <module name="marathon-server" />
-        <module name="jacksparrow" />
         <module name="basketball" />
         <module name="dutchman" />
         <module name="trickster" />
@@ -32,7 +35,7 @@
         <module name="yaml" />
         <module name="fengshui-api" />
         <module name="tiadalma" />
-        <module name="social-network" />
+        <module name="hotel-room-safe" />
         <module name="rockpaper" />
         <module name="the-magic-8-ball" />
         <module name="home-page" />
@@ -45,6 +48,7 @@
       <module name="basketball" target="11" />
       <module name="cinema" target="11" />
       <module name="cup" target="11" />
+      <module name="dead-men-tell-no-tales" target="11" />
       <module name="drhouse-accountancy" target="11" />
       <module name="drhouse-admission" target="11" />
       <module name="drhouse-beds" target="11" />
@@ -56,6 +60,7 @@
       <module name="fengshui-profiler" target="11" />
       <module name="fundementals2" target="11" />
       <module name="home-page" target="11" />
+      <module name="hotel-room-safe" target="11" />
       <module name="invoice-url" target="11" />
       <module name="jacksparrow" target="11" />
       <module name="lecture-exercise" target="11" />
@@ -71,6 +76,7 @@
       <module name="social-network" target="11" />
       <module name="the-magic-8-ball" target="11" />
       <module name="the-morse-encoder-ui" target="11" />
+      <module name="thieves-den" target="11" />
       <module name="tiadalma" target="11" />
       <module name="todos" target="11" />
       <module name="trickster" target="11" />
@@ -84,6 +90,7 @@
       <module name="basketball" options="-parameters" />
       <module name="cinema" options="-parameters" />
       <module name="cup" options="-parameters" />
+      <module name="dead-men-tell-no-tales" options="-parameters" />
       <module name="drhouse-accountancy" options="-parameters" />
       <module name="drhouse-admission" options="-parameters" />
       <module name="drhouse-beds" options="-parameters" />
@@ -95,6 +102,7 @@
       <module name="fengshui-profiler" options="-parameters" />
       <module name="fundementals2" options="-parameters" />
       <module name="home-page" options="-parameters" />
+      <module name="hotel-room-safe" options="-parameters" />
       <module name="invoice-url" options="-parameters" />
       <module name="jacksparrow" options="-parameters" />
       <module name="lecture-exercise" options="-parameters" />
@@ -110,6 +118,7 @@
       <module name="social-network" options="-parameters" />
       <module name="the-magic-8-ball" options="-parameters" />
       <module name="the-morse-encoder-ui" options="-parameters" />
+      <module name="thieves-den" options="-parameters" />
       <module name="tiadalma" options="-parameters" />
       <module name="todos" options="-parameters" />
       <module name="trickster" options="-parameters" />

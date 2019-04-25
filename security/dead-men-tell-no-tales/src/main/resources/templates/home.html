@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Pirates of the Code-Bean</title>
+</head>
+<body>
+<h1>Pirates of the Code-Bean</h1>
+
+<table>
+    <tr>
+        <th>header
+        </th>
+    </tr>
+    <tr>
+        <td th:if="${dutchman.cursed==true}">
+            <form method="post" th:action="@{/logout}">
+                <button>logout</button>
+            </form>
+        </td>
+        <td th:if="${dutchman.cursed==false}">Dutchman is not cursed
+
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

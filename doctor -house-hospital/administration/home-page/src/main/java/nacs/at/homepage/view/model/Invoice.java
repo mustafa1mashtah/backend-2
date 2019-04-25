@@ -13,18 +13,12 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 public class Invoice {
     private Long id;
-
-
     private Patient patient;
-
     private Kind kind;
-
     private String symptoms;
     private String diagnosis;
     private String provided;
-
     private double cost;
     private boolean paid;
     private LocalDateTime timestamp;
-
 }
