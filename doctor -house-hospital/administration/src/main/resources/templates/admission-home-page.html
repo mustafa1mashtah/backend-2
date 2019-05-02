@@ -20,6 +20,7 @@
     <p th:errors="*{symptoms}" th:if="${#fields.hasErrors('symptoms')}">Incorrect input</p>
     <button type="submit">Sign in</button>
 </form>
+<a th:href="@{/invoices}">See All Invoices</a>
 
 </body>
 </html>
