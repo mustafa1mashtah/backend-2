@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="558ca76e-87d9-4ffb-81e5-ebbe1c1cfc7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/administration/src/main/resources/templates/admission-home-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/administration/src/main/resources/templates/admission-home-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domain/Diagnosises.java" beforeDir="false" afterPath="$PROJECT_DIR$/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domain/Diagnosises.java" afterDir="false" />
-    </list>
+    <list default="true" id="558ca76e-87d9-4ffb-81e5-ebbe1c1cfc7a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/administration/target/" />
     <ignored path="$PROJECT_DIR$/drhouse-accountancy/target/" />
@@ -23,7 +19,7 @@
     <session id="-308702452">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="2" />
@@ -316,7 +312,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556814594043" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556867066452" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../basketball" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -402,18 +398,17 @@
       <option name="presentableId" value="Default" />
       <updated>1556788791982</updated>
       <workItem from="1556788795131" duration="822000" />
-      <workItem from="1556789791853" duration="2198000" />
+      <workItem from="1556789791853" duration="3399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3020000" />
+    <option name="totallyTimeSpent" value="4221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="3200" height="1765" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2535347" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2535347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -435,7 +430,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run Dashboard" order="13" visible="true" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="13" visible="true" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
